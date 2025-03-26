@@ -1,0 +1,117 @@
+[2025-03-26 12:11:13,019] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2025-03-26 12:11:22,150] WARNING django.request: Not Found: /
+[2025-03-26 12:11:22,158] WARNING django.server: "GET / HTTP/1.1" 404 2302
+[2025-03-26 12:11:22,415] WARNING django.request: Not Found: /favicon.ico
+[2025-03-26 12:11:22,417] WARNING django.server: "GET /favicon.ico HTTP/1.1" 404 2353
+[2025-03-26 12:11:35,749] WARNING django.request: Not Found: /api/
+[2025-03-26 12:11:35,751] WARNING django.server: "GET /api/ HTTP/1.1" 404 3270
+[2025-03-26 12:13:12,951] WARNING django.request: Unauthorized: /api/create/
+[2025-03-26 12:13:12,952] WARNING django.server: "GET /api/create/ HTTP/1.1" 401 3713
+[2025-03-26 12:13:12,986] INFO django.server: "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+[2025-03-26 12:13:12,991] INFO django.server: "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+[2025-03-26 12:13:13,000] INFO django.server: "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+[2025-03-26 12:13:13,006] INFO django.server: "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+[2025-03-26 12:13:13,013] INFO django.server: "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+[2025-03-26 12:13:13,015] INFO django.server: "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+[2025-03-26 12:13:13,016] INFO django.server: "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 304 0
+[2025-03-26 12:13:13,019] INFO django.server: "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+[2025-03-26 12:13:13,019] INFO django.server: "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 304 0
+[2025-03-26 12:13:13,025] INFO django.server: "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+[2025-03-26 12:13:13,037] INFO django.server: "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+[2025-03-26 12:13:13,048] INFO django.server: "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+[2025-03-26 12:13:29,741] WARNING django.request: Not Found: /api/
+[2025-03-26 12:13:29,753] WARNING django.server: "GET /api/ HTTP/1.1" 404 3270
+[2025-03-26 12:13:58,131] WARNING django.request: Unauthorized: /api/create/
+[2025-03-26 12:13:58,134] WARNING django.server: "GET /api/create/ HTTP/1.1" 401 3713
+[2025-03-26 12:14:05,419] WARNING django.request: Not Found: /api/
+[2025-03-26 12:14:05,421] WARNING django.server: "GET /api/ HTTP/1.1" 404 3270
+[2025-03-26 12:15:02,866] WARNING django.request: Method Not Allowed: /api/api-token-auth/
+[2025-03-26 12:15:02,869] WARNING django.server: "GET /api/api-token-auth/ HTTP/1.1" 405 40
+[2025-03-26 12:15:41,463] WARNING django.request: Bad Request: /api/api-token-auth/
+[2025-03-26 12:15:41,468] WARNING django.server: "POST /api/api-token-auth/ HTTP/1.1" 400 79
+[2025-03-26 12:16:27,646] WARNING django.request: Bad Request: /api/api-token-auth/
+[2025-03-26 12:16:27,647] WARNING django.server: "POST /api/api-token-auth/ HTTP/1.1" 400 68
+[2025-03-26 12:17:54,355] WARNING django.request: Bad Request: /api/api-token-auth/
+[2025-03-26 12:17:54,356] WARNING django.server: "POST /api/api-token-auth/ HTTP/1.1" 400 68
+[2025-03-26 12:18:01,220] WARNING django.request: Bad Request: /api/api-token-auth/
+[2025-03-26 12:18:01,221] WARNING django.server: "POST /api/api-token-auth/ HTTP/1.1" 400 68
+[2025-03-26 12:18:13,963] INFO django.server: "POST /api/api-token-auth/ HTTP/1.1" 200 52
+[2025-03-26 12:22:20,262] WARNING django.request: Unauthorized: /api/create/
+[2025-03-26 12:22:20,264] WARNING django.server: "POST /api/create/ HTTP/1.1" 401 58
+[2025-03-26 12:23:11,573] WARNING django.request: Unauthorized: /api/create/
+[2025-03-26 12:23:11,574] WARNING django.server: "POST /api/create/ HTTP/1.1" 401 58
+[2025-03-26 12:23:27,643] WARNING django.request: Unauthorized: /api/create/
+[2025-03-26 12:23:27,644] WARNING django.server: "POST /api/create/ HTTP/1.1" 401 58
+[2025-03-26 12:25:30,937] WARNING django.request: Not Found: /api/
+[2025-03-26 12:25:30,945] WARNING django.server: "GET /api/ HTTP/1.1" 404 3270
+[2025-03-26 12:25:42,627] WARNING django.request: Unauthorized: /api/user-tasks/2/
+[2025-03-26 12:25:42,633] WARNING django.server: "GET /api/user-tasks/2/ HTTP/1.1" 401 5027
+[2025-03-26 12:25:55,633] WARNING django.request: Not Found: /api/
+[2025-03-26 12:25:55,635] WARNING django.server: "GET /api/ HTTP/1.1" 404 3270
+[2025-03-26 12:26:06,315] WARNING django.request: Unauthorized: /api/assign/
+[2025-03-26 12:26:06,316] WARNING django.server: "GET /api/assign/ HTTP/1.1" 401 3713
+[2025-03-26 12:26:23,287] WARNING django.request: Unauthorized: /api/assign/
+[2025-03-26 12:26:23,288] WARNING django.server: "POST /api/assign/ HTTP/1.1" 401 58
+[2025-03-26 12:26:47,058] INFO django.server: "GET /admin/ HTTP/1.1" 200 9369
+[2025-03-26 12:26:47,088] INFO django.server: "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+[2025-03-26 12:26:47,091] INFO django.server: "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+[2025-03-26 12:26:47,116] INFO django.server: "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[2025-03-26 12:26:47,130] INFO django.server: "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[2025-03-26 12:26:47,145] INFO django.server: "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[2025-03-26 12:26:47,154] INFO django.server: "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[2025-03-26 12:26:47,158] INFO django.server: "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[2025-03-26 12:26:47,169] INFO django.server: "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[2025-03-26 12:26:47,176] INFO django.server: "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+[2025-03-26 12:26:50,477] INFO django.server: "GET /admin/authtoken/tokenproxy/ HTTP/1.1" 200 9929
+[2025-03-26 12:26:50,496] INFO django.server: "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+[2025-03-26 12:26:50,504] INFO django.server: "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[2025-03-26 12:26:50,509] INFO django.server: "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[2025-03-26 12:26:50,511] INFO django.server: "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[2025-03-26 12:26:50,522] INFO django.server: "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[2025-03-26 12:26:50,525] INFO django.server: "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[2025-03-26 12:26:50,550] INFO django.server: "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[2025-03-26 12:26:50,551] INFO django.server: "GET /static/admin/img/search.svg HTTP/1.1" 304 0
+[2025-03-26 12:26:50,562] INFO django.server: "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+[2025-03-26 12:26:50,568] INFO django.server: "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[2025-03-26 12:26:50,584] INFO django.server: "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+[2025-03-26 12:26:50,611] INFO django.server: "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+[2025-03-26 12:26:50,616] INFO django.server: "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 304 0
+[2025-03-26 12:26:57,785] INFO django.server: "GET /admin/testapp/customuser/ HTTP/1.1" 200 10635
+[2025-03-26 12:26:57,861] INFO django.server: "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[2025-03-26 12:27:11,591] INFO django.server: "GET /admin/authtoken/tokenproxy/add/ HTTP/1.1" 200 10516
+[2025-03-26 12:27:11,612] INFO django.server: "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+[2025-03-26 12:27:11,624] INFO django.server: "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+[2025-03-26 12:27:11,647] INFO django.server: "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+[2025-03-26 12:27:11,649] INFO django.server: "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0
+[2025-03-26 12:27:11,662] INFO django.server: "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[2025-03-26 12:27:11,666] INFO django.server: "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+[2025-03-26 12:27:15,510] INFO django.server: "POST /admin/authtoken/tokenproxy/add/ HTTP/1.1" 302 0
+[2025-03-26 12:27:15,561] INFO django.server: "GET /admin/authtoken/tokenproxy/ HTTP/1.1" 200 10403
+[2025-03-26 12:27:15,594] INFO django.server: "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+[2025-03-26 12:27:30,423] INFO django.server: "GET /admin/authtoken/tokenproxy/2/change/ HTTP/1.1" 200 10834
+[2025-03-26 12:27:30,447] INFO django.server: "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[2025-03-26 12:27:33,847] INFO django.server: "GET /admin/authtoken/tokenproxy/ HTTP/1.1" 200 10165
+[2025-03-26 12:27:49,548] WARNING django.request: Unauthorized: /api/assign/
+[2025-03-26 12:27:49,550] WARNING django.server: "POST /api/assign/ HTTP/1.1" 401 58
+[2025-03-26 12:27:51,364] WARNING django.request: Unauthorized: /api/assign/
+[2025-03-26 12:27:51,365] WARNING django.server: "POST /api/assign/ HTTP/1.1" 401 58
+[2025-03-26 12:33:18,704] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2025-03-26 12:33:23,872] INFO testapp.views: Task created: Test Task
+[2025-03-26 12:33:23,918] INFO django.server: "POST /api/create/ HTTP/1.1" 201 179
+[2025-03-26 12:33:29,950] INFO testapp.views: Task created: Test Task
+[2025-03-26 12:33:29,956] INFO django.server: "POST /api/create/ HTTP/1.1" 201 179
+[2025-03-26 12:35:15,594] INFO testapp.views: Task 2 assigned to users [2, 3]
+[2025-03-26 12:35:15,597] INFO django.server: "POST /api/assign/ HTTP/1.1" 200 41
+[2025-03-26 12:35:46,821] INFO testapp.views: Retrieved tasks for user 2
+[2025-03-26 12:35:46,828] INFO django.server: "GET /api/user-tasks/2/ HTTP/1.1" 200 325
+[2025-03-26 12:37:33,563] WARNING django.request: Not Found: /assign/
+[2025-03-26 12:37:34,347] WARNING django.request: Not Found: /create/
+[2025-03-26 12:37:35,077] WARNING django.request: Not Found: /user-tasks/1/
+[2025-03-26 12:42:24,424] WARNING testapp.views: Task assignment failed: {'user_ids': [ErrorDetail(string='This field is required.', code='required')]}
+[2025-03-26 12:42:24,425] WARNING django.request: Bad Request: /api/assign/
+[2025-03-26 12:42:24,802] INFO testapp.views: Task created: New Task
+[2025-03-26 12:42:25,178] INFO testapp.views: Retrieved tasks for user 1
+[2025-03-26 12:49:05,342] INFO testapp.views: Task 1 assigned to users [1, 2]
+[2025-03-26 12:49:06,075] INFO testapp.views: Task created: New Task
+[2025-03-26 12:49:06,877] INFO testapp.views: Retrieved tasks for user 1
+[2025-03-26 13:32:14,554] INFO django.utils.autoreload: Watching for file changes with StatReloader
